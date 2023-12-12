@@ -10,6 +10,6 @@ body{
     display: grid;                  /* CSSグリッドを適用 */
     grid-template-columns: 100vw;   /* ビューポート幅最大 */
     grid-template-rows: 100vh;      /* ビューポート高さ最大 */
-    font-family: 'RocknRoll One', sans-serif;   /* Google Fonts */
+    font-family: 'Noto Serif JP', serif;   /* Google Fonts */
     background-color: midnightblue;
 }
